@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BlogServiceApplication",
+            "request": "launch",
+            "mainClass": "blog.com.BlogServiceApplication",
+            "projectName": "BlogService"
+        },
+        {
+            "name": ""
+        }
+    ]
+}
